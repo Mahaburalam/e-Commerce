@@ -186,6 +186,27 @@
                 </div>
             </div>
             <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-7 about-img-all">
+                        <figure class="ppc-about-img"><img style="margin-top: 50px;" src="./img/websites/website design/Web-Host.jpg" alt=""></figure>  
+                    </div>
+                    <div class="col-md-12 col-lg-5">
+                        <div class="ppc-about">
+                            <h2 style="font-size: 38px; color: #3e980c;">Web Hosting Services</h2>
+                            <p style="font-size: 20px; text-align: justify;">
+                              If you own a business, large or small, web hosting isn't simply an option; it’s a necessity. People turn to the internet when searching for products or services, so your business needs a reliable and accessible website for potential clients to find. Even a basic page that details your business location, contact information, and hours of operation is invaluable.
+                            </p>
+                            <p style="font-size: 20px; text-align: justify;">Web Hosting We Provide:</p>
+                            <p style="font-size:20px; text-align: justify;"><i style="margin-right: 10px; font-size: 15px;" class="fa fa-circle" aria-hidden="true"></i>cPanel</p>
+                            <p style="font-size:20px; text-align: justify;"><i style="margin-right: 10px; font-size: 15px;" class="fa fa-circle" aria-hidden="true"></i>AWS (Amazon Web Services)</p>
+                            <p style="font-size:20px; text-align: justify;"><i style="margin-right: 10px; font-size: 15px;" class="fa fa-circle" aria-hidden="true"></i>Azure (Microsoft Web Services)</p>
+                            <p style="font-size:20px; text-align: justify;"><i style="margin-right: 10px; font-size: 15px;" class="fa fa-circle" aria-hidden="true"></i>GCP (Google Cloud Platform)</p>
+                        </div>  
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="container">
                 <h2 style="color: #3e980c; font-size: 50px;" class="text-center">Technology We Used</h2>
             </div>
             <div class="container">

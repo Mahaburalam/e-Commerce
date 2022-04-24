@@ -424,7 +424,7 @@
             </svg>
             <div class="container">
                 <div class="section-title">
-                    <h2 style="color: #3e980c; font-size: 50px; text-transform: uppercase;">Our Strategies</h2>
+                    <h2 class="respo" style="color: #3e980c; font-size: 38px; text-transform: uppercase;">Our Strategies</h2>
                     <p style="font-size: 20px">Trusted by many fastest-growing companies all around the world.</p>
                 </div>
                 <div class="row">

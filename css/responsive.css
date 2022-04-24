@@ -951,6 +951,12 @@ html {
 .section-title{
     width: 90%;
 }
+hr.top-line{
+
+}
+h2.respo{
+    font-size: 25px;
+}
     
 .section-title p{
     line-height: 1.6;
